@@ -8,6 +8,7 @@ Microserveis: conjunt de petits serveis, cadascun d'ells s'executen de manera au
 
 
 L'estructura utilitzada a Spring Boot ha sigut la següent:
+
 -CONTROLLER -> FruitaController: Ens permet gestionar les peticions http i redireccions
 
 -EXCEPTION -> GestorException: Ens permet gestionar / capturar les exceptions.
