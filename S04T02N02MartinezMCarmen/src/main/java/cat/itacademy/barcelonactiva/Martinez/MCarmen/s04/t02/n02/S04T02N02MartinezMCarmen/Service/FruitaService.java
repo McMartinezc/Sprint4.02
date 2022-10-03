@@ -43,7 +43,7 @@ public class FruitaService {
 
     //Buscar Un element
     public Fruita getOne(int id) throws ItemNotFoundException {
-        return fruitaRepository.findById(id).orElseThrow(() -> new ItemNotFoundException("No es existeix aquesta fruita"));
+        return fruitaRepository.findById(id).orElseThrow(() -> new ItemNotFoundException("No existeix aquesta fruita"));
     }
 
     //Mostrar tot
