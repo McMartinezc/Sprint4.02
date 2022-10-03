@@ -26,4 +26,11 @@ Desenvolupament de la nostra base de dades amb MySql, utilitzant la mateixa estr
 
 
 RECURSOS UTILITZATS:
+
+https://www.javaguides.net/p/spring-boot-tutorial.html
+
+https://www.baeldung.com/spring-boot-h2-database
+
+https://spring.io/guides/gs/accessing-data-mysql/
+
 https://www.youtube.com/watch?v=ez6FNBdCUB0&list=PL-A7l3GTDnp1YkBwslsdzuJKF55cISdSD
