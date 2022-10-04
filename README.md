@@ -2,7 +2,7 @@ Tasca S4.02
 
 -Conceptes:
 
-JPA: ens permet manipular la base de dades a través d'objectes aquests objectes en Spring són anomenats Entity. 
+JPA: ens permet manipular la base de dades a través d'objectes, aquests objectes en Spring són anomenats Entity. 
 
 Microserveis: conjunt de petits serveis, cadascun d'ells s'executen de manera autònoma i comunicant-se entre si, generalment a través de peticions REST sobre HTTP per mitjà de les seves APIS. És un estil d'arquitectura per desenvolupar l'aplicació.
 
