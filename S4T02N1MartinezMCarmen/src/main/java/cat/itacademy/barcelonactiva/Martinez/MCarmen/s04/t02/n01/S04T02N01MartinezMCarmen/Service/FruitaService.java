@@ -16,7 +16,7 @@ import java.util.List;
 public class FruitaService {
 
     @Autowired
-    FruitaRepository fruitaRepository;
+    private FruitaRepository fruitaRepository;
 
     //METODES CRUD
 
