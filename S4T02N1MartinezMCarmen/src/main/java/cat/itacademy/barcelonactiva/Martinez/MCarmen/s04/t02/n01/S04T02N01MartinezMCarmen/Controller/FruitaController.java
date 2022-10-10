@@ -19,7 +19,7 @@ import java.util.List;
 public class FruitaController {
 
     @Autowired //Inyección de dependencia
-    FruitaService fruitaService;
+    private FruitaService fruitaService;
 
     //METODES CRUD
 
