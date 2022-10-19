@@ -2,7 +2,7 @@
 
 Spring Framework Bàsics
 
-## Comenzando 🚀
+## Iniciant 🚀
 
 Ha arribat el moment de què comencis a familiaritzar-te amb Spring.
 
