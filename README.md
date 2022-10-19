@@ -1,6 +1,30 @@
-Tasca S4.02
+# Sprint 4.02
 
--Conceptes:
+Spring Framework Bàsics
+
+## Comenzando 🚀
+
+Ha arribat el moment de què comencis a familiaritzar-te amb Spring.
+
+Spring és un framework de codi obert per a la creació d'aplicacions empresarials amb Java. Disposa d'una estructura modular que li proporciona molta flexibilitat per a implementar diferents solucions segons les necessitats de cada aplicació.
+
+Per tal de simplificar la configuració i el desplegament de les aplicacions desenvolupades amb Spring Framework, va sorgir Spring Boot, que facilita molt aquests aspectes.
+
+### Descripció📋
+
+En aquesta tasca faràs un CRUD (Create, Read, Update, Delete) amb 3 bases de dades diferents.
+
+Aprendràs a usar correctament els verbs HTTP i a gestionar els codis de resposta.
+
+```
+PostMapping("/Add")
+PutMapping("/Update/{id}")
+DeleteMapping("/Delete/{id}")
+GetMapping("/getOne/{id}")
+GetMapping("/getAll")
+```
+
+## Conceptes ⚙️
 
 JPA: ens permet manipular la base de dades a través d'objectes, aquests objectes en Spring són anomenats Entity. 
 
@@ -21,17 +45,12 @@ L'estructura utilitzada a Spring Boot ha sigut la següent:
 
 -SEVICE -> FruitaService: és la part lògica del programa. On trobem els mètodes CRUD.
 
+## Recursos 🛠️
 
-S4T02N2MartinezMCarmen
-Desenvolupament de la nostra base de dades amb MySql, utilitzant la mateixa estructura del exercici 1, però implementant els canvis necessaris (application.properties)
+* [JavaGuides](https://www.javaguides.net/p/spring-boot-tutorial.html) 
+* [Baeldung](https://www.baeldung.com/spring-boot-h2-database) 
+* [Spring](https://www.youtube.com/watch?v=ez6FNBdCUB0&list=PL-A7l3GTDnp1YkBwslsdzuJKF55cISdSD)
+* [Curso SpringBoot](https://spring.io/guides/gs/accessing-data-mysql/)
 
+---
 
-RECURSOS UTILITZATS:
-
-https://www.javaguides.net/p/spring-boot-tutorial.html
-
-https://www.baeldung.com/spring-boot-h2-database
-
-https://spring.io/guides/gs/accessing-data-mysql/
-
-https://www.youtube.com/watch?v=ez6FNBdCUB0&list=PL-A7l3GTDnp1YkBwslsdzuJKF55cISdSD
