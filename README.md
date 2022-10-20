@@ -26,7 +26,8 @@ GetMapping("/getAll")
 ## Nivells Realitzats
 
 1- EXERCICI CRUD AMB H2
-H2-> Base de dades en memòria. 
+
+H2-> Base de dades en memòria. Es pot visualitzar a la consola per http://localhost:8080/h2-console. 
 
 2- EXERICI CRUD AMB MySQL
 
