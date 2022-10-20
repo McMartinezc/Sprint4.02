@@ -41,7 +41,7 @@ L'estructura utilitzada a Spring Boot ha sigut la següent:
            
 -MODEL -> Fruita: És la classe entitat representa un objecte. Aquesta classe està mapejada contra una taula de la base de dades, aquest mapatge es realitza amb les anotacions.
 
--REPOSITORY -> FruitaRepository: Interface que s'estén de JpaRepository. Forma part de la capa persistència és la forma que el nostre microservei pot guardar i recuperar les entitats.
+-REPOSITORY -> FruitaRepository: Interface que s'estén de JpaRepository. Forma part de la capa persistència és la forma que el nostre microservei pot guardar i recuperar les entitats. (Conté els metodes CRUD).
 
 -SEVICE -> FruitaService: és la part lògica del programa. On trobem els mètodes CRUD.
 
