@@ -23,6 +23,13 @@ DeleteMapping("/Delete/{id}")
 GetMapping("/getOne/{id}")
 GetMapping("/getAll")
 ```
+## Nivells Realitzats
+
+1- EXERCICI CRUD AMB H2
+H2-> Base de dades en memòria. 
+
+2- EXERICI CRUD AMB MySQL
+
 
 ## Conceptes ⚙️
 
