@@ -59,6 +59,7 @@ L'estructura utilitzada a Spring Boot ha sigut la següent:
 * [Baeldung](https://www.baeldung.com/spring-boot-h2-database) 
 * [Spring](https://www.youtube.com/watch?v=ez6FNBdCUB0&list=PL-A7l3GTDnp1YkBwslsdzuJKF55cISdSD)
 * [Curso SpringBoot](https://spring.io/guides/gs/accessing-data-mysql/)
+* [Mongodb](https://www.javadevjournal.com/spring-boot/spring-boot-with-mongodb/)
 
 ---
 
